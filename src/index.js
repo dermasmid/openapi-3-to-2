@@ -1,4 +1,3 @@
-"use strict";
 const cloneDeep = require('lodash.clonedeep');
 
 var HTTP_METHODS = ['get', 'put', 'post', 'delete', 'options', 'head', 'patch', 'trace'],
