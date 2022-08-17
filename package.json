@@ -1,7 +1,7 @@
 {
   "name": "openapi-3-to-2",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "1.0.1",
+  "main": "src/index.js",
   "scripts": {},
   "license": "MIT",
   "dependencies": {
